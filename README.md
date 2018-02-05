@@ -1,4 +1,4 @@
-# SolarSystemSimulation
+# Trappist-1 Stellar System Simulation
 
 system parameters source:
 http://www.trappist.one/#system
